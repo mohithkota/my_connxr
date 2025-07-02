@@ -6,3 +6,6 @@ on jun 26:::
 
 I am following the same file directory as the original cONNXr repo.
 
+
+on july 2 i have generated the opeartors from the connxr repo and copied those opeartors to the /operators
+
