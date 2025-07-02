@@ -1,0 +1,8 @@
+1) on the jun 24 i have started to work on the creating the my own version of connxr.
+2) so created the subfolders in the myconnxr folder.
+
+
+on jun 26:::
+
+I am following the same file directory as the original cONNXr repo.
+
