@@ -17,3 +17,6 @@ print("Image shape:", images.shape[1:])
 img = images[0].astype(np.float32) / 255.0
 input_tensor = img.reshape(1, 1, 28, 28)  # Shape: (N,C,H,W)
 print("Input tensor shape:", input_tensor.shape)
+
+
+#this code is given by the chat gpt
